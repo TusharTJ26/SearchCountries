@@ -4,7 +4,7 @@ const CountryDisplay = ({ data }) => {
   return (
     <div className="countryCard">
       <img src={data.png} alt={data.common} />
-      <h3>{data.common}</h3>
+      <h2>{data.common}</h2>
     </div>
   );
 };
