@@ -1,0 +1,13 @@
+.countryCard {
+  width: 9.7rem;
+  height: 10rem;
+  border: solid lightgrey 1px;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.countryCard img {
+  width: 6.5rem;
+  height: 6.5rem;
+}
